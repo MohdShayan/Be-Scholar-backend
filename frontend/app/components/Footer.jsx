@@ -9,6 +9,7 @@ const Footer = () => {
           src="https://drive.google.com/uc?export=download&id=1Mw0EcZHPZRRmK6SPwtBjMTNqYlaizVmL"
           width={80}
           height={80}
+          alt='footer'
           />
         </div>
         <div className="foot-right text-md font-light flex flex-col lg:flex-row md:flex-row gap-2">

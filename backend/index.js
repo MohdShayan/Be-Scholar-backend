@@ -3,8 +3,6 @@ import dotenv from "dotenv";
 import { ConnectDB } from "./conn/ConnectDB.js";
 import schoRoutes from "./routes/schoRoutes.js";
 import studentRoutes from "./routes/studRoutes.js"
-
-
 import cors from "cors";
 
 const app = express();

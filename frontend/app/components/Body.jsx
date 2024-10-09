@@ -15,6 +15,7 @@ const Body = () => {
                    src={"https://drive.google.com/uc?export=view&id=1uhPN3lSvpXOc6o34vn5pj2mpWhchmEJn"}
                    width={200}
                    height={200}
+                   alt='aadhar-img'
                    /> 
                 </div>
                 <div className="adhaar-down text-center">

@@ -3,7 +3,8 @@ import React from "react";
 import Image from "next/image";
 import { useState } from "react";
 import { useColorMode, useColorModeValue } from '@chakra-ui/react';
-import { FiMoon } from "react-icons/lu";
+import { FiMoon } from 'react-icons/fi';
+
 import { MdOutlineWbSunny } from "react-icons/md";
 import Link from "next/link";
 

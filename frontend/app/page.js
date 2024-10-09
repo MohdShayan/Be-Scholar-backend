@@ -10,6 +10,7 @@ export default function Home() {
           src="https://drive.google.com/uc?export=download&id=1Mw0EcZHPZRRmK6SPwtBjMTNqYlaizVmL"
           width={300}
           height={300}
+          alt='logo'
           />
           </div>
           <div className="section-right max-w-xl text-left mt-32"> {/* mt-32 for spacing */}
