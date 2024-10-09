@@ -13,9 +13,4 @@ router.get("/", getAllScholarships);
 router.post("/", createScholarship); 
 router.post("/apply", applyForScholarship); 
 
-router.post("/", createStudent);
-
-
-
-// Route for students
 export default router;
